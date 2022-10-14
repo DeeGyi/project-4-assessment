@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/DeeGyi/project-4-assessment/static/css/main.ce13e1fa.css",
-    "main.js": "/DeeGyi/project-4-assessment/static/js/main.cd60b353.js",
-    "index.html": "/DeeGyi/project-4-assessment/index.html",
-    "main.ce13e1fa.css.map": "/DeeGyi/project-4-assessment/static/css/main.ce13e1fa.css.map",
-    "main.cd60b353.js.map": "/DeeGyi/project-4-assessment/static/js/main.cd60b353.js.map"
+    "main.css": "/project-4-assessment/static/css/main.ce13e1fa.css",
+    "main.js": "/project-4-assessment/static/js/main.cd60b353.js",
+    "index.html": "/project-4-assessment/index.html",
+    "main.ce13e1fa.css.map": "/project-4-assessment/static/css/main.ce13e1fa.css.map",
+    "main.cd60b353.js.map": "/project-4-assessment/static/js/main.cd60b353.js.map"
   },
   "entrypoints": [
     "static/css/main.ce13e1fa.css",
